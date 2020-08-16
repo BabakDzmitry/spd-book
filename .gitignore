@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+setvar.py
 # C extensions
 *.so
 
@@ -81,7 +81,8 @@ celerybeat-schedule
 
 # dotenv
 .env
-
+*.bat
+*.sh
 
 # Spyder project settings
 .spyderproject
