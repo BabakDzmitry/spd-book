@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 coverage = "*"
+django-debug-toolbar = "*"
+django-debug-toolbar-force = "*"
 
 [packages]
 django = "==3.1"
